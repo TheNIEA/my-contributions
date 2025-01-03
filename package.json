@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/ui-react": "^6.7.2",
     "cra-template": "1.2.0",
     "react": "*",
-    "react-dom": "^19.0.0",
+    "react-dom": "^*",
     "react-scripts": "^5.0.1",
     "web-vitals": "*"
   },
